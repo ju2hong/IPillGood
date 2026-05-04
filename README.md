@@ -1,2 +1,7 @@
-# IPillGood_BackEnd
-I Pill Good BackEnd
+# 💊 I Pill Good 
+
+## 영양제 Q&A AI 어시스턴트
+> RAG 기반 LLM을 활용해 영양제의 성분·효능·복용시간·부작용을 근거 기반으로 안내하는 추천 및 지식 검색 서비스
+---
+
+
