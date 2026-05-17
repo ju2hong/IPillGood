@@ -1,0 +1,6 @@
+# 필요한 라이브러리 목록
+# 라이브러리 설치 코드 : 
+# pip install -r requirements.txt
+google-genai
+chromadb
+python-dotenv
