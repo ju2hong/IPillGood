@@ -427,3 +427,15 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# =============================================
+# Custom Project Settings (백엔드 추가 규칙)
+
+# API 키 보안 파일
+BackEnd/.env
+
+# Vector DB
+BackEnd/chroma_db/
+
+# 파이썬 실행 캐시 폴더
+**/__pycache__/
